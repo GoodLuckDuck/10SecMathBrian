@@ -1,0 +1,44 @@
+
+.container {
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+body {
+    background-image: url('https://as2.ftcdn.net/v2/jpg/02/69/34/89/1000_F_269348977_flD01DSjIXgfMuXQ797ZuXuVMVfBr8BM.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+h2 {
+  font-family: Chalkduster, fantasy;
+  color: #0042aa;
+  text-align: center;
+}
+
+h3, h4, p {
+   font-family: Chalkduster, fantasy;
+  color: #00c7fc;
+  text-align: center;
+}
+
+#equation {
+   font-family: Chalkduster, fantasy;
+  font-size: 36px;
+  margin: 20px 0;
+  color:#53d5fd;
+  text-align: center;
+}
+
+input {
+  padding: 5px 10px;
+  margin: 0 10px;
+  font-size: 18px;
+}
+
+#score, #highscore{
+  font-size: 24px;
+  font-weight: bold;
+  color: #e4ef65;
+}
